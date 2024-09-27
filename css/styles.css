@@ -1,6 +1,6 @@
 body
 {
-   background-image:url(../Images/cinema.jpg);
+   background-image:url(../Images/cinema.jpg); /* Image en lien avec le cinema */
    background-position: top center;
    background-size: cover;
    font-family: "Verdana", sans-serif;
