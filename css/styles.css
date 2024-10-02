@@ -24,11 +24,6 @@ h1
     list-style-type: none;
 }
 
-p
-{
- color:yellow
-}
-
 ul 
 {
   list-style: disc;
@@ -39,4 +34,9 @@ ol
     list-style-type:upper-latin;
    color:white;
    font-size: 16px;
+}
+
+p
+{
+ color:yellow
 }
